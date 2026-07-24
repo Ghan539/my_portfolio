@@ -1,5 +1,4 @@
 Ghanshyam Seervi – Portfolio
-B.Tech CSE (AI & Data Science) | Aspiring Data Engineer & Full-Stack Developer
 
 I am Ghanshyam Seervi, a B.Tech Computer Science Engineering (AI & Data Science) student at Vivekananda Global University, Jaipur, with a strong interest in Data Engineering, Artificial Intelligence, and Full-Stack Development. I enjoy building practical technology solutions that solve real-world problems while continuously improving my technical skills.
 
